@@ -6,3 +6,5 @@ ja sit vähä lisää
 
 ja ny vielä kolmannen kerran lisään teksiä ja tämänkin committoin erikeen
 
+ 
+ja tähän vikan eli varmaan kolmannen kerran commitoin
