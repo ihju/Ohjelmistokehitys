@@ -3,3 +3,6 @@ Nyt muutan täällä jotain
 Tämä sitten pitäisi kait impata gittiin. klo 22.39
 
 ja sit vähä lisää
+
+ja ny vielä kolmannen kerran lisään teksiä ja tämänkin committoin erikeen
+
